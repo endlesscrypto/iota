@@ -1,3 +1,7 @@
+from sys import argv
+
+def 
+
 def main():
-	lexer(filename)
+	lexer(argv[1])
 main()
