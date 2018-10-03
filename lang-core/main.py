@@ -1,3 +1,3 @@
 def main():
-	import lexer
+	lexer(filename)
 main()
